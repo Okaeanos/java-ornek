@@ -1,0 +1,18 @@
+package intro;
+
+public class arraysDemo {
+
+	public static void main(String[] args) {
+		string ögrenci1 = "Engin";
+				string ögrenci2 = "Derin";
+				string ögrenci3 = "Ali";
+				string ögrenci4 = "Ayla";
+
+				System.out.println(ögrenci1);
+		System.out.println(ögrenci2);
+		System.out.println(ögrenci3);
+		System.out.println(ögrenci4);
+		System.out.println("----------------");
+	}
+
+}
